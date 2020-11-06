@@ -57,7 +57,7 @@ class Home extends Component {
 			<React.Fragment>
 				<Row className='text-left'>
 					<Col>
-						<h2>My Awesome Blog <small>Just another dummy blog</small></h2>
+						<h2>Simple Blog</h2>
 					</Col>
 				</Row>
 				<hr/>
@@ -72,9 +72,7 @@ class Home extends Component {
 					
 					{/* Side area */}
 					<Col sm={{ size: '4' }}>
-					    
 						<SearchForm onClick={this.search} />
-
 					</Col>
 				</Row>
 			</React.Fragment>

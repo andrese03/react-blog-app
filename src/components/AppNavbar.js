@@ -37,7 +37,7 @@ export default class AppNavbar extends React.Component {
 								<NavLink href="/home/">Home</NavLink>
 							</NavItem>
 							<NavItem>
-								<NavLink href="https://github.com/andrese03/react-blog/">GitHub</NavLink>
+								<NavLink href="https://github.com/andrese03/react-blog-app/">GitHub</NavLink>
 							</NavItem>
 						</Nav>
 					</Collapse>

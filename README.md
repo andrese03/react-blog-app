@@ -6,7 +6,7 @@ This is a simple demo blog built with React and JSONPlaceholder as the source AP
 Open the terminal and go to the root project.
 
 ```sh
-$ cd ./your-path-to/my-awesome-project
+$ cd ./path-to/awesome-project
 ```
 
 Then run the following commands:
@@ -30,5 +30,5 @@ And that's it!
 ## Support
 Be wisely when you use it. It's not complicated. For more information, you can email me via [this link](mailto:andresencarnacion03@gmail.com)
 
-If you find an issue, please submit it [here](https://github.com/andrese03/react-blog/issues).
+If you find an issue, please submit it [here](https://github.com/andrese03/react-blog-app/issues).
 
